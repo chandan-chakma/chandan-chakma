@@ -43,7 +43,13 @@
 
 **Areas:** Machine learning · Deep learning · Natural language processing (NLP) · Computer vision
 
-**Libraries and frameworks:** TensorFlow · PyTorch · scikit-learn · Keras · Hugging Face · LangChain
+**Libraries and frameworks:**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,keras,huggingface&theme=dark" alt="TensorFlow, PyTorch, scikit-learn, Keras, and Hugging Face" />
+</p>
+
+TensorFlow · PyTorch · scikit-learn · Keras · Hugging Face · LangChain
 
 **Tools and platforms:** Jupyter · Google Colab · OpenAI API · Gemini API · Kaggle
 
