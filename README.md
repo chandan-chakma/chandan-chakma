@@ -21,10 +21,40 @@
 
 ## Tech stack
 
-<!-- Sample icons: replace this list with technologies you actually use. Browse icons at https://github.com/tandpfun/skill-icons -->
+### Programming languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,vscode&theme=dark" alt="HTML, CSS, JavaScript, React, Node.js, Git, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c&theme=dark" alt="JavaScript, TypeScript, Python, and C" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark" alt="HTML, CSS, React, Next.js, Tailwind CSS, and Bootstrap" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express" />
+</p>
+
+### Databases and services
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&theme=dark" alt="PostgreSQL, MySQL, MongoDB, and Firebase" />
+</p>
+
+### Tools and cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws&theme=dark" alt="Git, GitHub, VS Code, Docker, and AWS" />
+</p>
+
+### Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps&theme=dark" alt="Figma and Adobe Photoshop" />
 </p>
 
 ## Featured projects
