@@ -39,6 +39,14 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express" />
 </p>
 
+### AI and machine learning
+
+**Areas:** Machine learning · Deep learning · Natural language processing (NLP) · Computer vision
+
+**Libraries and frameworks:** TensorFlow · PyTorch · scikit-learn · Keras · Hugging Face · LangChain
+
+**Tools and platforms:** Jupyter · Google Colab · OpenAI API · Gemini API · Kaggle
+
 ### Databases and services
 
 <p>
