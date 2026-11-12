@@ -43,15 +43,21 @@
 
 **Areas:** Machine learning · Deep learning · Natural language processing (NLP) · Computer vision
 
-**Libraries and frameworks:**
-
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,keras,huggingface&theme=dark" alt="TensorFlow, PyTorch, scikit-learn, Keras, and Hugging Face" />
 </p>
 
-TensorFlow · PyTorch · scikit-learn · Keras · Hugging Face · LangChain
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+</p>
 
-**Tools and platforms:** Jupyter · Google Colab · OpenAI API · Gemini API · Kaggle
+<p>
+  <img src="https://skillicons.dev/icons?i=jupyter&theme=dark" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+</p>
 
 ### Databases and services
 
