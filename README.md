@@ -39,7 +39,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express" />
 </p>
 
-### AI and machine learning
+## AI & Machine Learning
 
 **Areas:** Machine learning · Deep learning · Natural language processing (NLP) · Computer vision
 
