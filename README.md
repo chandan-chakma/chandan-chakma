@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Exploring+new+ideas;Building+one+project+at+a+time;Always+learning" alt="Exploring new ideas, building projects, and always learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Exploring+new+ideas;Building+one+project+at+a+time;Always+learning" alt="Exploring new ideas, building projects, and always learning, Interested in Robotics and AI&ML" />
 </p>
 
 ---
@@ -17,7 +17,6 @@
 - 💬 **Ask me about:** Add topics you enjoy discussing
 - ⚡ **Fun fact:** Add something memorable about yourself
 
-> Replace the prompts above with details that sound like you.
 
 ## Tech stack
 
